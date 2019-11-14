@@ -46,12 +46,10 @@ p {
 }
 
 .Button {
-  background-color: #4CAF50; /* Green */
+  background-color: lightpink;
   border: #615d61;
-  color: white;
   padding: 15px 32px;
   text-align: center;
-  text-decoration: none;
   display: inline-block;
   font-size: 16px;
 }
@@ -62,12 +60,10 @@ a:link{
 a:hover{
     color: #615d61;
 }
-a:visited{
-    color: #eb57ff;
-}
 a:active{
     color: #eb57ff;
 }
+
 
 /* first paragraph under title*/
 #firstParagraph {
@@ -81,12 +77,6 @@ a:active{
     border-bottom-style: dotted;
 }
 
-/* table of contents*/
-#nav{
-    font-size: 22px;
-    text-align: left;
-    margin: 20px;
-}
 
 /* Facts */
 #factsParagraph {
